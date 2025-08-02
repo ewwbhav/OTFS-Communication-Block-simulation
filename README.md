@@ -34,7 +34,7 @@ The project is composed of several MATLAB files:
     otfs_awgn_ber
     ```
 5.  The script will execute the simulation for a range of SNR values and will automatically generate the BER vs. SNR plot.
-
+*you can see output graphs in the file of output otfs .pdf 
 ## License
 
 This project is licensed under the MIT License.
